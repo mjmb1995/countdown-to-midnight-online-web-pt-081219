@@ -1,6 +1,7 @@
 #write your code here
-counter = 0
+
 def countdown(int)
+  counter = 0
   while counter < int do
     puts "#{int} SECONDS!"
     counter += 1
